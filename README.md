@@ -30,7 +30,7 @@
 <p>
 
 <a href="https://www.github.com/eternal-will">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eternal-will&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eternal-will" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eternal-will&show_icons=true&locale=en&layout=compact&theme=algolia&hide=c%2B%2B" alt="eternal-will" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eternal-will&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="eternal-will" />
 </a>
 
