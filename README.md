@@ -1,12 +1,9 @@
 <h1 align="center">Hey, I'm Shashwat!</h1>
 <h3 align="center">A passionate Programmer, Full Stack Developer and a keen Learner.</h3>
 
-<div>
-<img align="right" alt="monke coding" width="400" src="https://c.tenor.com/pPKOYQpTO8AAAAAC/monkey-developer.gif">
-</div>
-
 <span style="font-size: 18px">
 <p>
+
 - 👨‍🎓 B.Tech Freshman major in **Information Technology**
 
 - 🌱 I’m currently learning **ReactJS**
