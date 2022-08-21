@@ -19,7 +19,7 @@
 <h2 align="left">💬 Wanna Connect with me?</h2>
 <p align="left">
 <a href="https://twitter.com/_shswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shswt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/_shswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_shshwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_shshwt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16229638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16229638" height="30" width="40" /></a>
 <a href="https://instagram.com/_shswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shswt" height="30" width="40" /></a>
 <a href="https://www.behance.net/shashwatshukla5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shashwatshukla5" height="30" width="40" /></a>
