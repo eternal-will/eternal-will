@@ -12,7 +12,6 @@
 
 - 📝 Practicing DSA in **Python**
 
-- 🤝 I’m looking forward to work in **Open-Source Community**
 
 - 📫 Reach me via **shuklashashwat2003@gmail.com**
 </p>
