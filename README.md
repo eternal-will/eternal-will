@@ -10,7 +10,7 @@
 
 - 👨‍💻 Currently working on **ReactJS Projects**
 
-- 📝 Practicing DSA in **Python**
+- 📝 Practicing DSA in **C**
 
 
 - 📫 Reach me via **shuklashashwat2003@gmail.com**
