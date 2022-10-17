@@ -4,13 +4,13 @@
 <span style="font-size: 18px">
 <p>
 
-- 👨‍🎓 B.Tech Freshman major in **Information Technology**
+- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Currently working on **ReactJS Projects**
 
-- 📝 Practicing DSA in **C**
+- 📝 Practicing DSA in **C/C++**
 
 
 - 📫 Reach me via **shuklashashwat2003@gmail.com**
