@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shashwat!</h1>
-<h3 align="center">A passionate Programmer, Full Stack Developer and a keen Learner.</h3>
+<h3 align="center">A passionate Programmer, Full Stack Web Developer and a keen Learner.</h3>
 
 <span style="font-size: 18px">
 <p>
