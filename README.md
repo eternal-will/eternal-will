@@ -8,11 +8,9 @@
 
 - B.Tech Sophomore major in **Information Technology**
 
-- I’m currently learning **Machine Learning**
-
 - Currently working on **ReactJS Projects**
 
-- Practicing DSA in **C/C++**
+- Practicing DSA in **Java**
 
 
 - Reach me via **shuklashashwat2003@gmail.com**
