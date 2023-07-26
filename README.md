@@ -6,7 +6,7 @@
 
 - Aspiring Full Stack Developer
 
-- B.Tech Sophomore major in **Information Technology**
+- B.Tech Jr. major in **Information Technology**
 
 - Currently working on **ReactJS Projects**
 
