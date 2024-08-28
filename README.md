@@ -6,9 +6,9 @@
 
 - Aspiring Full Stack Developer
 
-- B.Tech Jr. major in **Information Technology**
+- B.Tech major in **Information Technology**
 
-- Currently working on **ReactJS Projects**
+- Currently working on **Full Stack Development Projects**
 
 - Practicing DSA in **Java**
 
