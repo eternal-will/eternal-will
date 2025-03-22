@@ -6,7 +6,7 @@
 
 - Aspiring Full Stack Developer
 
-- B.Tech major in **Information Technology**
+- B.Tech in **Information Technology**
 
 - Currently working on **Full Stack Development Projects**
 
