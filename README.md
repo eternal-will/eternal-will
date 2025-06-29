@@ -4,8 +4,6 @@
 <span style="font-size: 18px">
 <p>
 
-- Full Stack Developer
-
 - B.Tech in **Information Technology**
 
 - Currently working on **Full Stack Development Projects**
