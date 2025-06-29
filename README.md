@@ -4,7 +4,7 @@
 <span style="font-size: 18px">
 <p>
 
-- Aspiring Full Stack Developer
+- Full Stack Developer
 
 - B.Tech in **Information Technology**
 
