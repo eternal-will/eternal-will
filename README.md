@@ -11,7 +11,7 @@
 - Practicing DSA in **Java**
 
 
-- Reach me via **shuklashashwat2003@gmail.com**
+- Reach me through **https://shswt.me/**
 </p>
 </span>
 </br>
