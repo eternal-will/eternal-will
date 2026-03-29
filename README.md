@@ -3,7 +3,7 @@
 
 <span style="font-size: 18px">
 <p>
-- Reach me through **https://shswt.me/**
+- Reach me through ** https://shswt.me/ **
 </p>
 </span>
 <h2 align="left">Wanna Connect with me?</h2>
